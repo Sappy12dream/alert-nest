@@ -1,0 +1,11 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="120" height="120" rx="20" fill="#0F172A"/>
+
+  <!-- Monogram: I + C -->
+  <text x="50%" y="60%" text-anchor="middle" fill="#38BDF8"
+        font-family="Segoe UI, sans-serif" font-weight="bold"
+        font-size="48" letter-spacing="2">
+    IC
+  </text>
+</svg>
